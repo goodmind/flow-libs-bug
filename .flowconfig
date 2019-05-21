@@ -1,1 +1,4 @@
 [options]
+
+[libs]
+node_modules/@flowtyped
